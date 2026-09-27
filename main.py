@@ -2,7 +2,7 @@ import time
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes, MessageHandler, filters
 
-BOT_TOKEN = 8148318952:AAHIVB8eyXke9UKeXCfj3PBC86BZOlDiwcE
+BOT_TOKEN = "8148318952:AAHIVB8eyXke9UKeXCfj3PBC86BZOlDiwcE"
 ADMIN_ID = 7733072316
 DEPOSIT_WALLET = "0x93Fd0A7a93Fd248529ef939af38A1CB6A5AF5D7f"
 
